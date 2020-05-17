@@ -1,3 +1,16 @@
+/* trying to move the navbar contents to the right */
+nav {
+    margin-right: 0%;
+}
+
+h1 {
+    color:rgb(68, 163, 135)
+}
+
+h2 {
+    color:rgb(68, 163, 135)
+}
+
 body {
     background-color: lightgray;
   }  
@@ -9,8 +22,6 @@ body {
 	color: black;
 	background-color: white;
 }
-
-
 
 .right-landing {
 	margin-top: 30px;
@@ -32,23 +43,58 @@ body {
 	height: 100%;
 }
 
-
-
-/* 
-.compplot-content {
+.left-cloudiness {
 	margin-top: 30px;
 	margin-bottom: 60px;
-	margin-right: 40px;
-	margin-left: 40px;
 	padding: 10px 30px 40px;
 	color: black;
 	background-color: white;
 }
-.plot-header {
-	padding-top: 15px; 
-	padding-left: 4px;
-	color: rgb(40, 164, 180);
-	font-size: 26px;
-	font-weight: bold;
-	font-family: Georgia, Times, "Times New Roman", serif;
-} */
+
+#cloudiness-image {
+    float:left;
+    width:100%;
+    height:100%;
+}
+
+.left-humidity {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 40px;
+	color: black;
+	background-color: white;
+}
+
+#humidity-image {
+    float:left;
+    width:100%;
+    height:100%;
+}
+
+.left-temp {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 40px;
+	color: black;
+	background-color: white;
+}
+
+#temp-image {
+    float:left;
+    width:100%;
+    height:100%;
+}
+
+.left-wind {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 40px;
+	color: black;
+	background-color: white;
+}
+
+#wind-image {
+    float:left;
+    width:100%;
+    height:100%;
+}
