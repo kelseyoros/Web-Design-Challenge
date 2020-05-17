@@ -1,0 +1,54 @@
+body {
+    background-color: lightgray;
+  }  
+
+.left-landing {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 5px;
+	color: black;
+	background-color: white;
+}
+
+
+
+.right-landing {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 40px;
+	color: black;
+	background-color: white;
+}
+
+#landing-image {
+    float:left;
+    width:50%;
+    height:50%;
+}
+
+#vis-image {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+/* 
+.compplot-content {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	margin-right: 40px;
+	margin-left: 40px;
+	padding: 10px 30px 40px;
+	color: black;
+	background-color: white;
+}
+.plot-header {
+	padding-top: 15px; 
+	padding-left: 4px;
+	color: rgb(40, 164, 180);
+	font-size: 26px;
+	font-weight: bold;
+	font-family: Georgia, Times, "Times New Roman", serif;
+} */
