@@ -114,3 +114,17 @@ body {
 	color: black;
 	background-color: white;
 }
+
+.dataframe{
+    text-align: center;
+    border: none;
+}
+
+th {
+    text-align: center;
+    background: white;
+    padding:0px 15px 0px 15px;
+}
+
+tr:nth-child(even) {background:white}
+tr:nth-child(odd) {background: lightgray}
