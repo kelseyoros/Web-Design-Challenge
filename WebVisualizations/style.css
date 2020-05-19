@@ -6,6 +6,10 @@
 	font-family: 'Times New Roman', Times, serif;
 }
 
+.nav-item:hover {
+	background-color:lightgray;
+}
+
 h1 {
     color:rgb(11, 173, 166)
 }
