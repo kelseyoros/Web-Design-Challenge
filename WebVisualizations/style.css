@@ -1,14 +1,17 @@
-/* trying to move the navbar contents to the right */
-nav {
-    margin-right: 0%;
+.navbar-light .navbar-brand {
+	background-color: rgb(11, 173, 166);
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
-    color:rgb(68, 163, 135)
+    color:rgb(11, 173, 166)
 }
 
 h2 {
-    color:rgb(68, 163, 135)
+    color:rgb(11, 173, 166)
 }
 
 body {
@@ -114,17 +117,3 @@ body {
 	color: black;
 	background-color: white;
 }
-
-.dataframe{
-    text-align: center;
-    border: none;
-}
-
-th {
-    text-align: center;
-    background: white;
-    padding:0px 15px 0px 15px;
-}
-
-tr:nth-child(even) {background:white}
-tr:nth-child(odd) {background: lightgray}
