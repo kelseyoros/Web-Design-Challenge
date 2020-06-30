@@ -4,7 +4,7 @@ This challenge uses data and visualizations from the python-api-challenge.  I to
 
 The website must consist of 7 pages total, including:
 
-* A [landing page](https://www.google.com "Google's Homepage")
+* A [landing page](https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/landing-lg.png "Landing Page - Large")
  containing:
   * An explanation of the project.
   * Links to each visualizations page.
