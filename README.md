@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-This challenge uses data and visualizations from the python-api-challenge.  I took the analysis from the previously mentioned challenge and displayed it on a web page.
+This challenge uses data and visualizations from the python-api-challenge.  I took the analysis from the previously mentioned challenge and displayed it on a web page.  This web page was ultimately deployed to GitHub Pages.  Check out the final product [here](https://kelseyoros.github.io/Web-Design-Challenge/)!
 
 The website consists of 7 pages total, including:
 * A navigation menu that:
