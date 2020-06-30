@@ -33,5 +33,5 @@ The website consists of 7 pages total, including:
 ### Example Visualization Page:
 <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/visualize-lg.png" width="400">
 
-### Data Page
+### Data Page:
 <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/data-lg.png" width="400"> 
