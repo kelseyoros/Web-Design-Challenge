@@ -21,6 +21,17 @@ The website consists of 7 pages total, including:
 * A "Data" page that:
   * Uses bootstrap to display a responsive table containing the data used in the visualizations.
 
-<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/nav-lg.png" width="200"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/nav-sm.png" width="200"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/comparison-lg.png" width="200">  <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/comparison-sm.png" width="200">
+### Navigation Bar:
+<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/nav-lg.png" width="400"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/nav-sm.png" width="400">
 
-<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/landing-lg.png" width="200"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/landing-sm.png" width="200"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/visualize-lg.png" width="200"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/visualize-sm.png" width="200"> 
+### Comparison Page:
+<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/comparison-lg.png" width="400">  <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/comparison-sm.png" width="400">
+
+### Landing Page:
+<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/landing-lg.png" width="400"> <img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/landing-sm.png" width="400">
+
+### Example Visualization Page:
+<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/visualize-lg.png" width="400">
+
+### Data Page
+<img src="https://github.com/kelseyoros/Web-Design-Challenge/blob/master/WebVisualizations/images/data-lg.png" width="400"> 
